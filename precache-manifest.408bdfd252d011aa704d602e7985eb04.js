@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef0365e60e26f1319f2970f9b5f71943",
+    "revision": "68441d6a3e27b48a91288270bdf12ccb",
     "url": "/proxify/index.html"
   },
   {
-    "revision": "7d01e42fe8833b34a188",
+    "revision": "b5ffa09e16bb14ed7476",
     "url": "/proxify/static/css/main.5f123747.chunk.css"
   },
   {
-    "revision": "13cd2837c17f7c600047",
-    "url": "/proxify/static/js/2.b037f59b.chunk.js"
+    "revision": "31f2b5366a50a65f4068",
+    "url": "/proxify/static/js/2.ca89e56b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/proxify/static/js/2.b037f59b.chunk.js.LICENSE.txt"
+    "url": "/proxify/static/js/2.ca89e56b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d01e42fe8833b34a188",
-    "url": "/proxify/static/js/main.c031ab0a.chunk.js"
+    "revision": "b5ffa09e16bb14ed7476",
+    "url": "/proxify/static/js/main.70fddc4d.chunk.js"
   },
   {
     "revision": "317d59a31d5f1626663a",
