@@ -1,0 +1,83 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.listWrapper {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: inherit;
+}
+
+/* visited link */
+a:visited {
+  color: inherit;
+}
+
+.listWrapper li {
+  padding: 15px 30px;
+  margin: 10px 0px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.divider {
+  margin: 40px 0px;
+  border-top: 2px solid #514e60;
+}
+
+.listWrapper li:hover,
+.active {
+  background: #4a2f3f;
+  color: #fc8074;
+}
+
+.sider {
+  position: fixed;
+  color: white;
+  margin-left: 20px;
+  margin-top: 40px;
+  font-size: 18px;
+  width: 50%;
+}
+
+.siderOpen {
+  transform: rotate(-10deg) translate(245px, 31px);
+}
+
+.user {
+  padding-left: 30px;
+  margin-bottom: 60px;
+  font-size: 22px;
+}
+
+.content {
+  transition: transform 0.2s;
+  position: fixed;
+  background: white;
+  height: 100%;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  border-radius: 40px;
+}
+
+.title {
+  padding-left: 20px;
+  font-size: 30px;
+  line-height: 30px;
+  color: #9f9fa0;
+}
+
+.icon {
+  fill: #e8e5e5;
+}
